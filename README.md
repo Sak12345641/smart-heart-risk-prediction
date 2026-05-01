@@ -53,14 +53,7 @@ The model takes the following inputs:
 ## 💻 Installation & Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/heart-stroke-prediction-svm.git
-
-# Navigate to project folder
-cd heart-stroke-prediction-svm
-
-# Install dependencies
-pip install -r requirements.txt
+https://github.com/Sak12345641/smart-heart-risk-prediction/tree/main
 
 # Run the app
 streamlit run app.py
